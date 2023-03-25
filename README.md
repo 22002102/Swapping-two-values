@@ -4,7 +4,7 @@ To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
-## ALGORITHM: 
+## ALGORITHM: !
 ### Step 1:
 Get the two values from the user
 ### Step 2: 
@@ -18,7 +18,25 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 
+#Program to swap two values.
+#Developed by: SANJAY S
+#RegisterNumber:212222230132
+a=input()
+b=input()
+temp=a
+a=b
+b=temp
+print('Swapped values are:',a,b)
+
+```
+##OUTPUT:
+
+
+
+
+![python EX1](https://user-images.githubusercontent.com/119091638/227722198-44f7a7f1-03fb-45e8-97e5-9d791d3a9429.png)
 
 
 ## RESULT:
